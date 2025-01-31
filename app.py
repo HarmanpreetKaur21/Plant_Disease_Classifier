@@ -43,7 +43,7 @@ def predict_image_class(model, image_path, class_indices):
 
 # Function to Get Solution from LLM
 def get_solution_from_llm(disease_name):
-    client = Groq(api_key="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")
+    client = Groq(api_key="your_api_key_here")
     prompt = f"The plant disease detected is {disease_name}. Provide detailed steps to mitigate the disease and improve plant health."
     
     completion = client.chat.completions.create(

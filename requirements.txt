@@ -1,0 +1,7 @@
+streamlit
+kaggle
+pandas
+scikit-learn
+tensorflow
+groq
+matplotlib

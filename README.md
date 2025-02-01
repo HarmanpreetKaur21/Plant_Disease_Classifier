@@ -1,7 +1,5 @@
 # Plant Disease Classifier
 
-![Plant Disease Classification]
-
 ## 🌱 Overview
 The **Plant Disease Classifier** is a deep learning-based project that identifies plant diseases from leaf images. It helps farmers and agricultural experts diagnose issues early and take preventive measures to improve crop health. Additionally, it integrates an **LLM (Large Language Model)** that not only predicts the disease but also provides solutions and treatment recommendations.
 
